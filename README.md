@@ -1,5 +1,7 @@
 # Dickingapi
 
+Exploratory Phoenix Api repository. Random bullshit will be implemented throughout this application.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
